@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+  <dict>
+    <key>AK47</key>
+    <string>1.0.0</string>
+    <key>QBZ95</key>
+    <string>1.0.0</string>
+    <key>M16</key>
+    <string>1.0.0</string>
+    <key>M249</key>
+    <string>1.0.0</string>
+    <key>AUG</key>
+    <string>1.0.0</string>
+    <key>Thompson</key>
+    <string>1.0.0</string>
+    <key>UZI</key>
+    <string>1.0.0</string>
+    <key>MP7</key>
+    <string>1.0.0</string>
+    <key>VSS</key>
+    <string>1.0.0</string>
+    <key>QBU88</key>
+    <string>1.0.0</string>
+    <key>M1</key>
+    <string>1.0.0</string>
+    <key>QBS09</key>
+    <string>1.0.0</string>
+    <key>SPAS12</key>
+    <string>1.0.0</string>
+    <key>KSG</key>
+    <string>1.0.0</string>
+    <key>QJY88</key>
+    <string>1.0.0</string>
+    <key>PK</key>
+    <string>1.0.0</string>
+    <key>QSZ92</key>
+    <string>1.0.0</string>
+    <key>C96</key>
+    <string>1.0.0</string>
+    <key>DesertEagle</key>
+    <string>1.0.0</string>
+    <key>TYPE38</key>
+    <string>1.0.0</string>
+    <key>MGL</key>
+    <string>1.0.0</string>
+  </dict>
+</plist>
